@@ -1,0 +1,33 @@
+﻿.owner-avatar {
+    width: 100px;
+    height: 100px;
+}
+
+.navbar {
+    background-color: #708090;
+}
+
+    .navbar a {
+        color: #ffffff;
+        font-size: 26px;
+    }
+
+        .navbar a.active {
+            text-decoration: underline;
+        }
+
+.nav-item {
+    margin-right: 40px;
+}
+
+    .nav-item .active {
+        font-weight: 700;
+    }
+
+.list-group {
+    padding: 20px;
+}
+
+.search-box {
+    margin-right: 20px;
+}
